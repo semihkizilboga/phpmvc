@@ -1,0 +1,17 @@
+{
+    "name": "semihkizilboga/mvc",
+    "autoload": {
+        "psr-4": {
+            "Semihkizilboga\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Semih Kızılboğa",
+            "email": "grafiksemih@gmail.com"
+        }
+    ],
+    "require": {
+        "izniburak/router": "^2.3"
+    }
+}
